@@ -1,6 +1,4 @@
 # -
-ブラウザ上で将棋をプレイできます。AIによって作成されました。
-
 作成: Replit Agent
 技術:
 - TypeScript
