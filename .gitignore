@@ -1,6 +1,9 @@
 node_modules/
 dist/
+lib/
+artifacts/
 .env
 .env.local
 .DS_Store
 *.log
+pnpm-lock.yaml
